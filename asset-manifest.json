@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HYM/static/css/main.f855e6bc.css",
+    "main.js": "/HYM/static/js/main.0e8a3ac2.js",
+    "static/js/592.b8428267.chunk.js": "/HYM/static/js/592.b8428267.chunk.js",
+    "static/media/logo.svg": "/HYM/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HYM/index.html",
+    "main.f855e6bc.css.map": "/HYM/static/css/main.f855e6bc.css.map",
+    "main.0e8a3ac2.js.map": "/HYM/static/js/main.0e8a3ac2.js.map",
+    "592.b8428267.chunk.js.map": "/HYM/static/js/592.b8428267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0e8a3ac2.js"
+  ]
+}
